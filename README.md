@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - CS junior 
 - APP development
 - ACM
+-Coding to survive, surviving to code
