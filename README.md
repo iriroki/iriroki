@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 
 -->
-- CS sophomore
+- CS sophomore at City University of Hong Kong
 
