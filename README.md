@@ -5,6 +5,4 @@
 
 Here are some ideas to get you started:
 
--->
-- CS sophomore at City University of Hong Kong
 
